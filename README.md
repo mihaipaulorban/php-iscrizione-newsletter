@@ -11,6 +11,7 @@ Il progetto utilizza Bootstrap per gli elementi visivi e per fornire feedback vi
 - **Form di Iscrizione**: Un form semplice per inserire l'indirizzo email.
 - **Validazione lato server**: Controllo dell'indirizzo email per verificare se è ben formata.
 - **Feedback visivo**: Uso degli alert di Bootstrap per fornire un feedback immediato sull'esito della validazione dell'email.
+- **Reindirizzazione su una pagina**: Al successo dell'iscrizione l'utente viene reindirizzato su una pagina di ringraziamento.
 
 ## Tecnologie Utilizzate
 
